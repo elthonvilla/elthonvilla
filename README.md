@@ -1,7 +1,7 @@
 <h1>Welcome :wave: </h1>
 <!-- <h3>A passionate frontend developer from Brazil</h3> -->
 
-- 🌱 I’m currently learning **MySQL, Docker and Node.js**
+- 🌱 I’m currently learning **MySQL, Docker, Node.js and Sequelize ORM**
 
 - 📫 How to reach me **elthon.rv@gmail.com**
 

@@ -1,7 +1,7 @@
 <h1>Welcome :wave: </h1>
 <!-- <h3>A passionate frontend developer from Brazil</h3> -->
 
-- 🌱 I’m currently learning **TypeScrypt, Docker, SOLID and Sequelize ORM**
+- 🌱 I’m currently learning **TypeScript, Docker, SOLID and Sequelize ORM**
 
 - 📫 How to reach me **elthon.rv@gmail.com**
 

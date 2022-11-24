@@ -1,7 +1,7 @@
 <h1>Welcome :wave: </h1>
 <!-- <h3>A passionate frontend developer from Brazil</h3> -->
 
-- 🌱 I’m currently learning **Docker, SOLID and OOP**
+- 🌱 I’m currently learning **Python, SOLID and OOP**
 
 - 📫 How to reach me **elthon.rv@gmail.com**
 
